@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Pravah+%7C+GitMetrics+%7C+Credlytic;Building+Real-World+Products;Full+Stack+Developer+%26+Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&center=true&vCenter=true&width=1000&lines=Code.+Build.+Improve.;Full+Stack+Developer;Cyber+Security+Enthusiast;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 # Hey, I'm Suhani 👋
 
@@ -29,7 +29,16 @@ My interests span full stack development, backend engineering, cyber security, a
 
 ## ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,cpp,react,redux,tailwind,fastapi,flask,nodejs,mysql,linux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,redux,mysql,linux,git)](https://skillicons.dev)
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge" />
+</p>
 
 ---
 
@@ -37,9 +46,9 @@ My interests span full stack development, backend engineering, cyber security, a
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
-|  **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
-|  **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
-|  **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain |
+| 🌊 **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
+| 📈 **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
+| 🔐 **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain |
 
 ---
 
@@ -49,7 +58,7 @@ My interests span full stack development, backend engineering, cyber security, a
 Building    → Full Stack Applications
 Exploring   → Cyber Security & System Design
 Practicing  → LeetCode • NeetCode • Codeforces
-Open To     → Open Source & Internships
+Open To     → Open Source • Internships • Collaboration
 ```
 
 ---
@@ -65,16 +74,8 @@ Open To     → Open Source & Internships
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniyadav-netizen&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark&no-frame=true&margin-w=15&cache_seconds=86400" />
 </p>
 
 ---
