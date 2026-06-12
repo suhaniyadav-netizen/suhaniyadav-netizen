@@ -21,7 +21,7 @@ My interests span full stack development, backend engineering, cyber security, a
 
 ##  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,redux,mysql,linux,git,flask,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,c++,redux,mysql,linux,git,flask,threejs)](https://skillicons.dev)
 
 ---
 
