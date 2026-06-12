@@ -37,9 +37,9 @@ My interests span full stack development, backend engineering, cyber security, a
 
 | Project | Description | Tech Stack | Live |
 |----------|------------|------------|------|
-| 🌊 **Pravah** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js | [Demo](https://pravah-proj.vercel.app) |
-| 📈 **GitMetrics** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS | [Demo](https://git-metrics-wine.vercel.app) |
-| 🔐 **Credlytic** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain | [Demo](https://credlytic-minor-proj.vercel.app/) |
+|  **[Pravah]**(https://pravah-proj.vercel.app) | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js | 
+|  **GitMetrics** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS | [Demo](https://git-metrics-wine.vercel.app) |
+|  **Credlytic** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain | [Demo](https://credlytic-minor-proj.vercel.app/) |
 
 ---
 
@@ -73,7 +73,7 @@ Open To     → Open Source & Internships
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark)
 
 ---
 
