@@ -35,11 +35,11 @@ My interests span full stack development, backend engineering, cyber security, a
 
 ## 📂 Projects
 
-| Project | Description | Tech Stack | Live |
-|----------|------------|------------|------|
-|  **Pravah**(https://pravah-proj.vercel.app) | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js | 
-|  **GitMetrics** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS | [Demo](https://git-metrics-wine.vercel.app) |
-|  **Credlytic** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain | [Demo](https://credlytic-minor-proj.vercel.app/) |
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+|  **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
+|  **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
+|  **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain |
 
 ---
 
@@ -73,15 +73,9 @@ Open To     → Open Source & Internships
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark)
-
----
-
-## 🤝 Connect
-
-- 🌐 Portfolio → https://suhaniyadavv.netlify.app/
-- 💼 LinkedIn → https://www.linkedin.com/in/suhaniyadavv/
-- 📧 Email → suhani.yadavmicro@gmail.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark&no-frame=true&margin-w=15&cache_seconds=86400" />
+</p>
 
 ---
 
