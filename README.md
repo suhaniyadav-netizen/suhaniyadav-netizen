@@ -23,7 +23,7 @@
 
 I'm passionate about building software that solves real-world problems through technology.
 
-My interests span backend engineering, full stack development, cyber security, and data-driven systems. I enjoy transforming ideas into reliable products while continuously improving my problem-solving and engineering skills.
+My interests span full stack development, backend engineering, cyber security, and data-driven systems. I enjoy transforming ideas into reliable products while continuously improving my problem-solving and engineering skills.
 
 ---
 
@@ -69,17 +69,11 @@ Open To     → Open Source & Internships
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniyadav-netizen&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniyadav-netizen&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark&no-frame=true&margin-w=15" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=suhaniyadav-netizen&theme=onedark&no-frame=true&margin-w=15&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
