@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=220&section=header&text=Suhani%20Yadav&fontSize=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&center=true&vCenter=true&width=1200&lines=Code.+Build.+Improve.;Think.+Build.+Iterate.;Driven+By+Curiosity%2C+Powered+By+Code.;Building+Today+What+I+Wish+Existed+Yesterday.)](https://git.io/typing-svg)
 
