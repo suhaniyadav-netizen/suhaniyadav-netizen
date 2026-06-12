@@ -10,14 +10,6 @@
 
 ---
 
-## 🚀 Highlights
-
-- 🌊 Built **Pravah** — Real-Time Flood Risk Monitoring Platform
-- 📈 Built **GitMetrics** — Developer Analytics Dashboard
-- 🔐 Built **Credlytic** — Blockchain-Based Certificate Verification Platform
-- 🏆 Secured **Top 4** among **150+ teams** in a hackathon
-
----
 
 ## 👨‍💻 About Me
 
@@ -27,18 +19,9 @@ My interests span full stack development, backend engineering, cyber security, a
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,redux,mysql,linux,git)](https://skillicons.dev)
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,redux,mysql,linux,git,flask,threejs)](https://skillicons.dev)
 
 ---
 
@@ -46,9 +29,9 @@ My interests span full stack development, backend engineering, cyber security, a
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
-| 🌊 **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
-| 📈 **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
-| 🔐 **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos, Blockchain |
+|  **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
+|  **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
+|  **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos Smart Contracts |
 
 ---
 
