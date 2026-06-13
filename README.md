@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=170&color=gradient&customColorList=14,17,19,24&text=Suhani%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&customColorList=14,17,19,24&text=Suhani%20Yadav&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&center=true&vCenter=true&width=1200&lines=Code.+Build.+Improve.;Think.+Build.+Iterate.;Driven+By+Curiosity%2C+Powered+By+Code.;Building+Today+What+I+Wish+Existed+Yesterday.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Code.+Build.+Improve.;Think.+Build.+Iterate.;Driven+By+Curiosity.;Building+What+Matters.)](https://git.io/typing-svg)
 
 ### Turning ideas into products and products into impact.
 
@@ -10,18 +10,17 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
-I'm passionate about building software that solves real-world problems through technology.
+I build software that solves real problems.
 
-My interests span full stack development, backend engineering, cyber security, and data-driven systems. I enjoy transforming ideas into reliable products while continuously improving my problem-solving and engineering skills.
+Focused on full stack development, backend systems, cybersecurity, and scalable software. I enjoy transforming ideas into products while continuously improving my engineering and problem-solving skills.
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,cpp,redux,mysql,nodejs,linux,git,flask,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,react,redux,nodejs,mysql,flask,linux,git,threejs)](https://skillicons.dev)
 
 ---
 
@@ -29,16 +28,16 @@ My interests span full stack development, backend engineering, cyber security, a
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
-|  **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
-|  **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
-|  **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos Smart Contracts |
+| **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | FastAPI, Pandas, Leaflet.js |
+| **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | React, Redux Toolkit, Tailwind CSS |
+| **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | Flask, Aptos Smart Contracts |
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-Building    → Full Stack Applications
+Building    → Scalable Full Stack Applications
 Exploring   → Cyber Security & System Design
 Practicing  → LeetCode • NeetCode • Codeforces
 Open To     → Open Source • Internships • Collaboration
@@ -57,10 +56,10 @@ Open To     → Open Source • Internships • Collaboration
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniyadav-netizen&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniyadav-netizen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
- ### Creating Solutions, One Commit At A Time.
+### Creating Solutions, One Commit At A Time.
