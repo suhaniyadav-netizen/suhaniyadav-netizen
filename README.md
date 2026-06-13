@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&customColorList=14,17,19,24&text=Suhani%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Cyber%20Security%20•%20Problem%20Solver&descAlignY=70&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&text=Suhani%20Yadav&fontSize=36&animation=scaleIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Code.+Build.+Improve.;Think.+Build.+Iterate.;Driven+By+Curiosity.;Building+What+Matters.)](https://git.io/typing-svg)
 
