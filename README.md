@@ -55,10 +55,10 @@ Open To     → Open Source • Internships • Collaboration
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaniyadav-netizen&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+<img src="https://github-streak-stats-ruby.vercel.app?user=suhaniyadav-netizen&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+</div>
 
 ---
 
