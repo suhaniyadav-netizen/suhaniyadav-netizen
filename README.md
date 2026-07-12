@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=120&color=gradient&text=Suhani%20Yadav&fontSize=36&animation=scaleIn)
+## 📊 GitHub Analytics
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Code.+Build.+Improve.;Think.+Build.+Iterate.;Driven+By+Curiosity.;Building+What+Matters.)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+<img src="https://github-streak-stats-ruby.vercel.app?user=suhaniyadav-netizen&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
+</div>
 
-### Turning ideas into products and products into impact.
+---
+
+### Creating Solutions, One Commit At A Time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhaniyadavv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel)](https://suhaniyadavv.netlify.app/)
@@ -25,6 +30,7 @@ Focused on full stack development, backend systems, cybersecurity, and scalable 
 ---
 
 ## 📂 Projects
+### Turning ideas into products and products into impact.
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
@@ -52,14 +58,3 @@ Open To     → Open Source • Internships • Collaboration
 - NeetCode 250 → https://neetcode.io/practice/practice/neetcode250
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-<img src="https://github-streak-stats-ruby.vercel.app?user=suhaniyadav-netizen&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-</div>
-
----
-
-### Creating Solutions, One Commit At A Time.
