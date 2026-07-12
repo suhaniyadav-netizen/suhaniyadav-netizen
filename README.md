@@ -24,7 +24,7 @@ Focused on full stack development, backend systems, cybersecurity, and scalable 
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/suhaniyadavv?theme=dark&font=Inter&ext=activity" width="49%"/>
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=suhani.yadavmicro" width="49%"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=suhani.yadavmicro?theme=dark" width="49%"/>
 </div>
 
 ---
