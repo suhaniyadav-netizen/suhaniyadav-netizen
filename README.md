@@ -1,4 +1,4 @@
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics - Creating Solutions, One Commit At A Time.
 
 <div align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
@@ -6,8 +6,6 @@
 </div>
 
 ---
-
-### Creating Solutions, One Commit At A Time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhaniyadavv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel)](https://suhaniyadavv.netlify.app/)
