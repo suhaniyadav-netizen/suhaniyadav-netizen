@@ -20,6 +20,12 @@ I build software that solves real problems.
 Focused on full stack development, backend systems, cybersecurity, and scalable software. I enjoy transforming ideas into products while continuously improving my engineering and problem-solving skills.
 
 ---
+## 🧩 Coding Profiles
+
+- LeetCode → https://leetcode.com/u/suhaniyadavv/
+- Codeforces → https://codeforces.com/profile/suhani.yadavmicro
+---
+
 
 ## ⚙️ Tech Stack
 
@@ -45,13 +51,5 @@ Exploring   → Cyber Security & System Design
 Practicing  → LeetCode • NeetCode • Codeforces
 Open To     → Open Source • Internships • Collaboration
 ```
-
----
-
-## 🧩 Coding Profiles
-
-- LeetCode → https://leetcode.com/u/suhaniyadavv/
-- Codeforces → https://codeforces.com/profile/suhani.yadavmicro
-- NeetCode 250 → https://neetcode.io/practice/practice/neetcode250
 
 ---
