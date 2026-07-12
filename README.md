@@ -27,8 +27,7 @@ Focused on full stack development, backend systems, cybersecurity, and scalable 
 
 ---
 
-## 📂 Projects
-### Turning ideas into products and products into impact.
+## 📂 Projects - Turning ideas into products and products into impact.
 
 | Project | Description | Tech Stack |
 |----------|------------|------------|
