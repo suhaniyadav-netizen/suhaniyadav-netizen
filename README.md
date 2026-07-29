@@ -1,7 +1,5 @@
 ## 📊 GitHub Analytics - Creating Solutions, One Commit At A Time.
 
-## 📊 GitHub Analytics - Creating Solutions, One Commit At A Time.
-
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=suhaniyadav-netizen&theme=gotham&hide_border=true)
