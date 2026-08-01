@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme.jpeg" alt="Suhani Yadav Banner" width="100%" />
+  <img src="./assets/readme.jpeg" alt="Suhani Yadav Banner" width="50%" />
 </p>
 
 <br>
