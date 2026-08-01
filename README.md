@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="./assets/readme.jpeg" alt="Suhani Yadav Banner" width="100%" />
+</p>
+
+<br>
+
 ## 📊 GitHub Analytics - Creating Solutions, One Commit At A Time.
-
-<div align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000dc5c81fa99f2d73b69e6ff6c&ts=495990&p=fs&cid=1&sig=3589fb39f6d4a9315c3cff3010fb5c040eb2db3d202c47b8434f686af061910a&v=0" width="49%"/>
-
 <div align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
 <img src="https://github-streak-stats-ruby.vercel.app?user=suhaniyadav-netizen&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
