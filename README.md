@@ -1,9 +1,5 @@
-## 📊 GitHub Analytics - Creating Solutions, One Commit At A Time.
+<img width="1000" height="230" alt="image" src="https://github.com/user-attachments/assets/3ede0bf2-61d2-4a78-80bc-3e850a36d65b" />
 
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadav-netizen&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=suhaniyadav-netizen&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%"/>
-</div>
 
 ---
 
