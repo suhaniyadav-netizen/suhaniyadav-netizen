@@ -33,7 +33,7 @@ Focused on full-stack development, backend systems, cybersecurity, and scalable 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
 | **[Pravah](https://pravah-proj.vercel.app)** | Real-time flood risk monitoring and visualization platform for Delhi | `FastAPI` `Pandas` `Leaflet.js` |
-| **[GitMetrics](https://git-metrics-wine.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | `React` `Redux` `Tailwind CSS` |
+| **[GitMetrics](https://gitmetrics-sy.vercel.app)** | Developer analytics dashboard providing GitHub insights and repository statistics | `React` `Redux` `Tailwind CSS` |
 | **[Credlytic](https://credlytic-minor-proj.vercel.app/)** | Blockchain-powered certificate issuance and verification platform | `Flask` `Aptos` `Move` |
 
 ---
