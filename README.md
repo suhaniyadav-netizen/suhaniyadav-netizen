@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1000" alt="Header Banner" src="https://github.com/user-attachments/assets/3ede0bf2-61d2-4a78-80bc-3e850a36d65b" />
+<img width="1000" height="230" alt="image" src="https://github.com/user-attachments/assets/3ede0bf2-61d2-4a78-80bc-3e850a36d65b" />
 
 <br/><br/>
 
@@ -42,11 +42,13 @@ Focused on full-stack development, backend systems, cybersecurity, and scalable 
 
 ## 🧩 Coding Profiles
 
-<div align="left">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/suhaniyadavv/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445FA5?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/suhani.yadavmicro)
-
+<div align="center">
+  <a href="https://leetcode.com/u/suhaniyadavv/">
+    <img src="https://leetcode-stats-api.herokuapp.com/suhaniyadavv" alt="LeetCode Stats" height="150" />
+  </a>
+  <a href="https://codeforces.com/profile/suhani.yadavmicro">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=suhani.yadavmicro&theme=dark" alt="Codeforces Stats" height="150" />
+  </a>
 </div>
 
 ---
