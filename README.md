@@ -42,10 +42,10 @@ Focused on full-stack development, backend systems, cybersecurity, and scalable 
 
 ## 🧩 Coding Profiles
 
-<div align="center">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadavv&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=suhani.yadavmicro&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak"/>
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/suhaniyadavv?theme=dark&font=Inter&ext=activity" width="47%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=suhani.yadavmicro&theme=dark&border_color=#0000000" width="49.5%" />
+</p>
 
 ---
 
