@@ -2,8 +2,6 @@
 
 <img width="1000" height="230" alt="image" src="https://github.com/user-attachments/assets/3ede0bf2-61d2-4a78-80bc-3e850a36d65b" />
 
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhaniyadavv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel)](https://suhaniyadavv.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:suhani.yadavmicro@gmail.com)
