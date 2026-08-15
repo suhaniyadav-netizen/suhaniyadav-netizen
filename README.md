@@ -43,24 +43,12 @@ Focused on full-stack development, backend systems, cybersecurity, and scalable 
 ## 🧩 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/suhaniyadavv/">
-    <img src="https://leetcode-stats-api.herokuapp.com/suhaniyadavv" alt="LeetCode Stats" height="150" />
-  </a>
-  <a href="https://codeforces.com/profile/suhani.yadavmicro">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=suhani.yadavmicro&theme=dark" alt="Codeforces Stats" height="150" />
-  </a>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=suhaniyadavv&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=60" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=suhani.yadavmicro&theme=gotham&hide_border=true&include_all_commits=true&cache_seconds=60&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaniyadav-netizen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaniyadav-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
