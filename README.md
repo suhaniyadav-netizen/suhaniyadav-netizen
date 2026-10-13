@@ -9,7 +9,7 @@
 </div>
 
 ---
-## 👨‍💻 About Meee
+## 👨‍💻 About Me
 
 I build software that solves real problems.
 
